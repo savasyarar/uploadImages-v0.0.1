@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^/pages/?album/([0-9]+)$ /album.php?page=$1
